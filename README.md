@@ -1,6 +1,6 @@
 # Color-classification 
 
-controlling a 4 axis robotic arm using an arduino micro-controller to clasify cubes according to thier color.
+controlling a 4 axis robotic arm using an atmega328 micro-controller to clasify cubes according to thier color.
 
 the detection process is done by an LDR (photoresistor) + RGB LED.
 
